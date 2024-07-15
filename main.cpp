@@ -26,6 +26,7 @@ int main()
 	};
 	
 	int op;
+	cout<<"Bienvenido"<<endl;
 	do
 	{
 		cout<<"1. mostrar lista de medicamentos"<<endl;
