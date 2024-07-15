@@ -26,6 +26,7 @@ int main()
 	};
 	
 	int op;
+	cout<<"sistema de gestion "<<endl;
 	cout<<"Bienvenido"<<endl;
 	do
 	{
