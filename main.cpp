@@ -54,5 +54,6 @@ int main()
 	}
 	while(op!=0);
 	cout<<"Fin";
+	cout<<"Saliendo.....";
 	return 0;
 }
