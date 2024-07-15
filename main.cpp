@@ -55,6 +55,6 @@ int main()
 	while(op!=0);
 	cout<<"Fin";
 	cout<<"Saliendo.....";
-	cout<<"gracias por usar nuestro sistema";
+	cout<<"GRACIAS POR USAR NUESTRO SISTEMA";
 	return 0;
 }
